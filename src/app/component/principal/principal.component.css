@@ -19,11 +19,13 @@
     font-size: var(--font-maximo);
     font-weight: bold;
     height: 58px;
+    
 }
 
 .ppal_text p{
     font-size: var(--font-xlarge);
     height: 5px;
+    text-shadow: 5px 3px 3px black;
 }
 
 /* .f1 {font-size: var(--font-max-medios);}
