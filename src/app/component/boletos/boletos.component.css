@@ -1,0 +1,27 @@
+.body_type_content{
+    display: flex;
+    justify-content: center;
+}
+
+
+.type_box{
+    width: 200px;
+    height: 125px;
+    background-color: aqua;
+    border: 2px sold black;
+    margin: 5px;
+    text-align: center;
+}
+
+.box_title_content{
+    display: flex;
+    justify-content: center;
+}
+
+.box_number{
+    width: 120px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+}
